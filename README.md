@@ -18,5 +18,5 @@ This project is an **implementation of the Word2Vec model (Skip-Gram + CBOW)** f
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/word2vec-from-scratch.git
+   git clone https://github.com/<Hasnain-irshad>/word2vec-from-scratch.git
    cd word2vec-from-scratch
